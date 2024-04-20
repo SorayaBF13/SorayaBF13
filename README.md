@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](Recursos/20240420_135408.jpg)
 
 ## Descripción
 
