@@ -1,30 +1,24 @@
-# Título del Proyecto
+# Hola :wave: bienvenid@ a mi repositorio de Github
+## Mi nombre es _Soraya_ y esta soy yo :point_down: :blush:
 
 ![Imagen de Portada](Recursos/FotoCarnet.jpg)
 
-## Descripción
+## ¿Quién soy?
 
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Actualmente estudio desarrollo de aplicaciones multiplataforma (DAM) y soy una apasionada de la informática, y del desarrollo de software.
 
-## Características
+Aprendiendo y disfrutando cada día del proceso, creando nuevos proyectos tanto backend como frontend y cargada de ideas que desarrollar.
 
-- Característica 1
-- Característica 2
-- Característica 3
-- 
-## Instalación
+```java
+System.out.println("Hello world!");
 
-Instrucciones para instalar y configurar el proyecto.
+```
 
-## Uso
+## Algunos proyectos
 
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
+### -Introducción a Git y Github
+#### :point_down: _Pincha en la imagen_ :point_down:
+[![imagen git](https://github.com/SorayaBF13/retogit/assets/167620199/249ea992-1d1b-42d1-89ac-6fc1fc5284d0)](https://github.com/SorayaBF13/retogit/blob/2289fcb6b0b6281222de3e184351ec480f633554/README.md)
 
-## Contribución
 
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
-
-## Licencia
-
-Licencia bajo la cual se distribuye el proyecto.
 
